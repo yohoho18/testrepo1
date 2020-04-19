@@ -18,7 +18,7 @@ is a link to another nifty site
 
 Send me mail at <a href="www.test.com">
 
-support@yourcompany.com</a>.
+test@testmail.com</a>.
 
 <P> This is a new paragraph!
 
