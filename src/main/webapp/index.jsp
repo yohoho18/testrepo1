@@ -8,7 +8,7 @@
 
 <BODY BGCOLOR="FFFFFF">
 
-<h1>ggggggggggggggggggggg This is Ansible testing motherfucker </hi>
+<h1>This is testing for Docker CI/CD pipeline</hi>
 
 </BODY>
 
