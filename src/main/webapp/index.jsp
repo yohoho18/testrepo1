@@ -8,7 +8,7 @@
 
 <BODY BGCOLOR="FFFFFF">
 
-<h1>This is testing for Docker CI/CD pipeline. Using jenkins automation.</h1>
+<h1>Lets do it for testing automation.</h1>
 
 </BODY>
 
